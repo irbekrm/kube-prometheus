@@ -32,10 +32,7 @@ spec:
   podMonitorSelector: {}
   probeNamespaceSelector: {}
   probeSelector: {}
-  replicas: 2
-  resources:
-    requests:
-      memory: 400Mi
+  replicas: 1
   ruleNamespaceSelector: {}
   ruleSelector: {}
   securityContext:
